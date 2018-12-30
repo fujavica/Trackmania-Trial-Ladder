@@ -12,7 +12,7 @@ namespace TrialLadder.Pages
 
         public void OnGet()
         {
-            Message = "Your application description page.";
+            Message = "This is a website with Trials from the game Trackmania and its ladder.";
         }
     }
 }
